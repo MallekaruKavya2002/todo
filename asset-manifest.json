@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MallekaruKavya2002/todo.git/static/css/main.4135840d.css",
-    "main.js": "/MallekaruKavya2002/todo.git/static/js/main.cad2053d.js",
-    "static/js/453.37753ddd.chunk.js": "/MallekaruKavya2002/todo.git/static/js/453.37753ddd.chunk.js",
-    "index.html": "/MallekaruKavya2002/todo.git/index.html",
-    "main.4135840d.css.map": "/MallekaruKavya2002/todo.git/static/css/main.4135840d.css.map",
-    "main.cad2053d.js.map": "/MallekaruKavya2002/todo.git/static/js/main.cad2053d.js.map",
-    "453.37753ddd.chunk.js.map": "/MallekaruKavya2002/todo.git/static/js/453.37753ddd.chunk.js.map"
+    "main.css": "/todo/static/css/main.4135840d.css",
+    "main.js": "/todo/static/js/main.c025fcf7.js",
+    "static/js/453.37753ddd.chunk.js": "/todo/static/js/453.37753ddd.chunk.js",
+    "index.html": "/todo/index.html",
+    "main.4135840d.css.map": "/todo/static/css/main.4135840d.css.map",
+    "main.c025fcf7.js.map": "/todo/static/js/main.c025fcf7.js.map",
+    "453.37753ddd.chunk.js.map": "/todo/static/js/453.37753ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4135840d.css",
-    "static/js/main.cad2053d.js"
+    "static/js/main.c025fcf7.js"
   ]
 }
